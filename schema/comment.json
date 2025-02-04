@@ -1,0 +1,7 @@
+{
+    "_id": "comment001",
+    "postId": "post001",
+    "userId": "user456",
+    "comment": "Nice post!",
+    "createdAt": "2025-02-01T13:00:00Z"
+  }

@@ -1,0 +1,22 @@
+{
+    "_id": "post001",
+    "userId": "user123",
+    "content": "My first post!",
+    "media": [
+      "image1.jpg",
+      "video1.mp4"
+    ],
+    "likes": 120,
+    "comments": [
+      {
+        "userId": "user456",
+        "comment": "Nice post!",
+        "createdAt": "2025-02-01T13:00:00Z"
+      }
+    ],
+    "shares": 10,
+    "createdAt": "2025-02-01T12:30:00Z"
+  }
+
+
+  

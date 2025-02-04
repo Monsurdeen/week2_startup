@@ -1,0 +1,6 @@
+{
+    "_id": "follow001",
+    "followerId": "user123",
+    "followingId": "user456",
+    "createdAt": "2025-02-01T13:10:00Z"
+  }
